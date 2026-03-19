@@ -4,6 +4,7 @@ Author: MarkSmrnw
 
 ## Notes:
 You have caught me mid draft! Hey! I'm still working on the setup, forgive me.
+Commits and builds as of now are heavily WIP. Some files might be temporary as I am learning.
 
 ## Planed features:
 - LaserPointer
