@@ -8,7 +8,7 @@ Commits and builds as of now are heavily WIP. Some files might be temporary as I
 
 ## Planed features:
 - LaserPointer
-- Notes for each PowerPoint slide projected to the App / WebUI
+- Notes for each PowerPoint slide projected to the App / WebUI (Via SQL)
 - Clicker
 - Language settings
 - Support for other presentation medias (e. g. Libre Office) 

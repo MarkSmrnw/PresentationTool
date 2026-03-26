@@ -1,0 +1,2 @@
+- NOT EXE FRIENDLY! Here are Notes:
+    - Path for file access is only direct execution friendly, not exe. Helper function to figure current path for EXE
